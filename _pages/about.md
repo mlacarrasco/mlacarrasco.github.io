@@ -1,17 +1,17 @@
 ---
 layout: about
-title: Associate Professor
-permalink: 
-subtitle: Universidad Adolfo Ibanez.
+title: about
+permalink: /
+subtitle: Universidad Adolfo Ibáñez.
 
 profile:
   align: right
   image: prof_pic_miguel.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Oficina 320. Edificio Talleres</p>
-    <p>Diagonal Las Torres 2700</p>
-    <p>Penalolen, Santiago, Chile</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
