@@ -27,17 +27,17 @@
       "name": "Universidad Adolfo Ibáñez",
       "position": "Associate Professor",
       "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
-      "startDate": "March/2013",
+      "startDate": "03/2013",
       "endDate": "",
       "summary": "Information Technology Department",
       "highlights": ["Computer Science","Image Processing"]
     },
     {
       "name": "Universidad Diego Portales",
-      "position": "Assista Professor",
+      "position": "Assistant Professor",
       "url": "",
-      "startDate": "Aug/2009",
-      "endDate": "Feb/2013",
+      "startDate": "08/2009",
+      "endDate": "02/2013",
       "summary": "Computer Science Department",
       "highlights": ["Computer Science","Image Processing"]
     }
@@ -49,8 +49,17 @@
       "url": "https://www.isir.upmc.fr/?lang=en",
       "area": "Image Processing",
       "studyType": "Docteur en Informatique",
-      "startDate": "Jan/2008",
-      "endDate": "April/2010"
+      "startDate": "1/2008",
+      "endDate": "4/2010"
+    },
+    {
+      "institution": "Pontificia Universidad Católica de Chile, Computer Science Department",
+      "location": "Santiago, Chile",
+      "url": "https://dcc.ing.uc.cl/",
+      "area": "Computer Science",
+      "studyType": "Doctorado en Ciencias de la Ingeniería, meción computación",
+      "startDate": "8/2004",
+      "endDate": "4/2010"
     }
   ],
   "awards": [
