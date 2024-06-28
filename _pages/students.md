@@ -8,8 +8,12 @@ nav_order: 3
 pretty_table: true
 ---
 
+
+## Alumni
+
+
 <hr>
-### Postgraduated students from MSDS, MIA, MCI:
+#### Postgraduated students from MSDS, MIA, MCI:
 
 <hr>
 MSDS: <a href="https://www.uai.cl/master-of-science/master-of-science-in-data-science/"> Master of Science in Data Science </a>
@@ -21,9 +25,9 @@ MCI: <a href="https://ingenieria.uai.cl/master-of-science/magister-en-ciencias-d
 <hr>
 
 <table
-  data-click-to-select="true"
+  data-click-to-select="false"
   data-height="760"
-  data-pagination="true"
+  data-pagination="false"
   data-search="false"
   data-toggle="table"
   data-url="{{ '/assets/json/table_postgraduated.json' | relative_url }}"
@@ -42,13 +46,13 @@ MCI: <a href="https://ingenieria.uai.cl/master-of-science/magister-en-ciencias-d
 </br>
 
 <hr>
-### Graduated students from Computer or Information System Engineering
+#### Graduated students from Computer or Information System Engineering
 <hr>
 
 <table
-  data-click-to-select="true"
+  data-click-to-select="false"
   data-height="760"
-  data-pagination="true"
+  data-pagination="false"
   data-search="false"
   data-toggle="table"
   data-url="{{ '/assets/json/table_graduated.json' | relative_url }}"
