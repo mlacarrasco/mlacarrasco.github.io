@@ -29,48 +29,52 @@
       "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
       "startDate": "01/03/2013",
       "endDate": "",
-      "summary": "Information Technology department",
+      "summary": "Information Technology Department",
       "highlights": ["Computer Science","Image Processing"]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Universidad Diego Portales",
+      "position": "Assista Professor",
+      "url": "",
+      "startDate": "01/06/2009",
+      "endDate": "28/02/2013",
+      "summary": "Computer Science Department",
+      "highlights": ["Computer Science","Image Processing"]
     }
   ],
   "education": [
     {
-      "institution": "Université Pierre et Marie Curie",
-      "location": "Paris, France",
+      "institution": "Université Pierre et Marie Curie, Institut Systèmes Intelligents et de Robotique",
+      "location": "Campus Pierre et Marie Curie, Paris, France",
       "url": "https://www.isir.upmc.fr/?lang=en",
       "area": "Image Processing",
-      "studyType": "PhD",
+      "studyType": "Docteur en Informatique",
       "startDate": "2008",
       "endDate": "2010"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Teacher Award of diploma on Data Science",
+      "date": "Jun, 2024",
+      "awarder": "Universidad Adolfo Ibáñez",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Teacher Award of the Faculty of Engineering and Science",
+      "date": "Jan, 2024",
+      "awarder": "Universidad Adolfo Ibáñez",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Internacional Engineering Educator, ING.PAED.IGIP (austria)",
+      "date": "31/12/2023",
+      "issuer": "innovaHiEd",
+      "url": "https://innovahied.academy/en/",
       "icon": "fa-solid fa-location-dot"
     }
   ],
@@ -80,18 +84,13 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Mechanics"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -106,12 +105,7 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Mechanics"
       ]
     }
   ],
