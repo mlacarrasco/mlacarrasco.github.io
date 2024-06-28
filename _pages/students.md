@@ -5,6 +5,7 @@ title: students
 description: 
 nav: true
 nav_order: 5
+pretty_table: true
 ---
 
 <table
