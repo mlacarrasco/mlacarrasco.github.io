@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Associate Professor
-permalink: https://ingenieria.uai.cl/profesor/miguel-carrasco/
+permalink: 
 subtitle: Universidad Adolfo Ibáñez.
 
 profile:
