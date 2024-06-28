@@ -1,0 +1,121 @@
+[
+  {
+    "year": 2022,
+    "name": "T. Wachter",
+    "title": "Extracción de emociones en obras artísticas mediante Redes Neuronales Convolucionales",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2022,
+    "name": "A. Mardones",
+    "title": "Generación de Arte utilizando Inteligencia Artificial",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2021,
+    "name": "J. Sandoval",
+    "title": "Análisis cuantitativo de la representación visual de elementos de signos en el contexto COVID-19",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2019,
+    "name": "A. Aylwin, A. Fuentes, A. Rebolledo",
+    "title": "Sistema de monitoreo para flujos en la producción de harina",
+    "program": "Ingeniería Civil Industrial, mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2019,
+    "name": "A. Zamorano",
+    "title": "Modelo predictivo de rutas de navegación de usuarios en el sitio WEB usando cadenas de Markov",
+    "program": "Ingeniería Civil Industrial, mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2019,
+    "name": "F. Atala, J.L. Vallejos",
+    "title": "Desarrollo de Sistema de Monitoreo para Biodigestor Doméstico",
+    "program": "Ingeniería Civil Industrial – mención BioIngeniería, Ingeniería Civil Informática",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2018,
+    "name": "J. Acuña, J. Aranguiz, D. Marín",
+    "title": "Sistema de control para pernos de fricción",
+    "program": "Ingeniería Civil en Minería / Industrial",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2018,
+    "name": "J. Fernandez, B. Jackson, S. Undurraga",
+    "title": "Automatización del control de calidad a través de visión artificial",
+    "program": "Ingeniería Civil Industrial – mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2017,
+    "name": "G. Duarte, B. Sade",
+    "title": "Perfiles de túneles mineros",
+    "program": "Ingeniería Civil en Minería",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2017,
+    "name": "N. Bravo, A. Tapia",
+    "title": "Automatización de medición de alcalinidad para un biodigestor doméstico",
+    "program": "Ingeniería Civil en Bioingeniería, Ingeniería Civil Industrial mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2015,
+    "name": "C. Ojeda, G. Ferrari",
+    "title": "Bundi:  controla tu entorno",
+    "program": "Ingeniería Civil Industrial, mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2015,
+    "name": "M. Cabezon",
+    "title": "Verni: Sistema de Control y Automatización para invernaderos",
+    "program": "Ingeniería Civil Industrial, mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2012,
+    "name": "A. García",
+    "title": "Interacción humano-computador por medio de detección y proyección de movimiento",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2012,
+    "name": "R. Schalchli",
+    "title": "Sistema de recomendación de productos de supermercados a través de una interfaz móvil mediante reconocimiento de patrones",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2012,
+    "name": "M. Ortega and A. Viada",
+    "title": "Sistema de detección de gestos de forma activa",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2012,
+    "name": "V. Pozo",
+    "title": "Sistema de reconocimiento de objetos utilizando detección de patrones",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2011,
+    "name": "F. del Campo",
+    "title": "Caracterización de la intención humana en movimientos de aprehensión utilizando un sistema de adquisición de imágenes y un acelerómetro",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  }
+]
