@@ -30,11 +30,11 @@ MCI: <a href="https://ingenieria.uai.cl/master-of-science/magister-en-ciencias-d
 >
   <thead>
     <tr>
-      <th data-field="year" data-halign="right" data-align="center" data-sortable="true">year</th>
-      <th data-field="names" data-halign="right" data-align="left" data-sortable="false">names</th>
-      <th data-field="title" data-halign="right" data-align="left" data-sortable="false">title</th>
-      <th data-field="program" data-halign="right" data-align="left" data-sortable="false">program</th>
-      <th data-field="university" data-halign="right" data-align="left" data-sortable="false">university</th>
+      <th data-field="year" data-halign="left" data-align="center" data-sortable="true">year</th>
+      <th data-field="names" data-halign="left" data-align="left" data-sortable="false">names</th>
+      <th data-field="title" data-halign="left" data-align="left" data-sortable="false">title</th>
+      <th data-field="program" data-halign="left" data-align="left" data-sortable="false">program</th>
+      <th data-field="university" data-halign="left" data-align="left" data-sortable="false">university</th>
     </tr>
   </thead>
 </table>
@@ -55,11 +55,11 @@ MCI: <a href="https://ingenieria.uai.cl/master-of-science/magister-en-ciencias-d
 >
   <thead>
     <tr>
-      <th data-field="year" data-halign="right" data-align="center" data-sortable="true">year</th>
-      <th data-field="name" data-halign="right" data-align="left" data-sortable="false">names</th>
-      <th data-field="title" data-halign="right" data-align="left" data-sortable="false">title</th>
-      <th data-field="program" data-halign="right" data-align="left" data-sortable="false">program</th>
-      <th data-field="university" data-halign="right" data-align="left" data-sortable="false">university</th>
+      <th data-field="year" data-halign="left" data-align="center" data-sortable="true">year</th>
+      <th data-field="name" data-halign="left" data-align="left" data-sortable="false">names</th>
+      <th data-field="title" data-halign="left" data-align="left" data-sortable="false">title</th>
+      <th data-field="program" data-halign="left" data-align="left" data-sortable="false">program</th>
+      <th data-field="university" data-halign="rileftght" data-align="left" data-sortable="false">university</th>
     </tr>
   </thead>
 </table>
