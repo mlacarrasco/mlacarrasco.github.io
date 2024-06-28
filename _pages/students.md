@@ -43,7 +43,7 @@ MCI: <a href="https://ingenieria.uai.cl/master-of-science/magister-en-ciencias-d
   </thead>
 </table>
 
-</br>
+<br>
 
 <hr>
 #### Graduated students from Computer or Information System Engineering
