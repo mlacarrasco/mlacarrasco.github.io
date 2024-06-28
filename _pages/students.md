@@ -7,9 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-{% raw  %}
-
-```html
 <table
   data-click-to-select="true"
   data-height="460"
@@ -27,6 +24,3 @@ nav_order: 5
     </tr>
   </thead>
 </table>
-```
-
-{% endraw  %}
