@@ -1,9 +1,11 @@
 github_users:
   - thomaswachterw
+  - uai-art-image-processing
 
 repo_description_lines_max: 2
 
 github_repos:
+  - uai-art-image-processing/covid19_color_emotion_analysis
   - mlacarrasco/crack_width
   - mlacarrasco/drtb
   - mlacarrasco/generative_versus_human
