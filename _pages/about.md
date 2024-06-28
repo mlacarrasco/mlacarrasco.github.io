@@ -2,7 +2,7 @@
 layout: about
 title: Associate Professor
 permalink: 
-subtitle: Universidad Adolfo Ibáñez.
+subtitle: Universidad Adolfo Ibanez.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Oficina 320. Edificio Talleres</p>
     <p>Diagonal Las Torres 2700</p>
-    <p>Peñalolén, Santiago, Chile</p>
+    <p>Penalolen, Santiago, Chile</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
