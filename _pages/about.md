@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: https://pure.uai.cl/es/persons/miguel-carrasco
 subtitle: Universidad Adolfo Ibáñez.
 
 profile:
