@@ -4,7 +4,7 @@
     - name: Full Name
       value: Miguel Carrasco
     - name: Date of Birth
-      value: 14th March 1879
+      value: 11th January 1977
     - name: Languages
       value: Spanish, English, French
 
@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Univerité Pierre et Marie Curie, Paris, France
+      year: 2010
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Pontificia Universidad Católica de Chile
+      institution: Pontificia Universidad Católica de Chile, Chile
+      year: 2010
       description:
         - Description 1.
         - Description 2.
