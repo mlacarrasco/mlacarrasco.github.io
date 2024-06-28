@@ -1,107 +1,121 @@
 [
-    {
-      "year": 2024,
-      "names": ["M. Gahona", "J. Toro", "A. Trua", "L. Manríquez"],
-      "title": "Diseño y construcción de un predictor granulométrico para control de calidad en operaciones mineras",
-      "program": "Master of Artificial Intelligence (MIA)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2023,
-      "names": ["R. Dastres"],
-      "title": "Generación automática de obras artísticas mediante el análisis de las emociones utilizando Generative Adversarial Networks",
-      "program": "Magíster en Ciencias de la Ingeniería (MCI)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2023,
-      "names": ["C. Fainberg"],
-      "title": "Análisis de Conjunto Alternativo para Mejorar Rendimiento de Modelo de Reconocimiento Facial Invariante a la Edad",
-      "program": "Master of Science in Data Science (MSDS)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2023,
-      "names": ["J. Alvarado"],
-      "title": "Obtención de superficies de objetos 3D a través de imágenes RGB-D",
-      "program": "Master of Science in Data Science (MSDS)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2023,
-      "names": ["J.P. Benavente", "D. Franzani", "P. Quercia"],
-      "title": "Diseño y evaluación de un modelo de detección de portonazos mediante Redes Neuronales Convolucionales",
-      "program": "Master in Artificial Intelligence (MIA)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2023,
-      "names": ["C. Portilla"],
-      "title": "Análisis del comportamiento geométrico del crecimiento de colonias bacteriana",
-      "program": "Master of Science in Data Science (MSDS)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2023,
-      "names": ["J. Castillo"],
-      "title": "Detección automática de la bacteria Beggiatoa en fondos marítimos basados en tratamiento digital de videos por medio de Redes Neuronales Convolucionales",
-      "program": "Magíster en Ciencias de la Ingeniería (MCI)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2022,
-      "names": ["G. Oviedo"],
-      "title": "Análisis del uso del color en las representaciones visuales en el contexto de la pandemia de la COVID-19 para la detección de lase mociones utilizando técnicas de minería de datos",
-      "program": "Magíster en Ciencias de la Ingeniería (MCI)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2021,
-      "names": ["I. Figueroa", "M. Ramos", "N. Rodríguez", "E. Oñate"],
-      "title": "Aplicación de redes neuronales en la inspección de áreas de extracción en minería subterránea",
-      "program": "Master in Artificial Intelligence (MIA)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2021,
-      "names": ["L. Medinelli", "J. Mercado", "P. Leitao"],
-      "title": "Aplicación de técnicas de Deep Learning en el reconocimiento de emociones humanas en imágenes de baja resolución",
-      "program": "Master in Artificial Intelligence (MIA)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2021,
-      "names": ["F. Ortiz"],
-      "title": "Optimización de flotación de minerales utilizando algoritmos de inteligencia artificial",
-      "program": "Master in Data Science (MDS)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2015,
-      "names": ["J. Meneses"],
-      "title": "Gestión y Monitoreo de EPP para la construcción",
-      "program": "Magíster en Gestión y Emprendimiento Tecnológico (MGET)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2014,
-      "names": ["C. Larenas"],
-      "title": "Monitoreo Animal en tiempo real a través de sensores",
-      "program": "Magíster en Gestión y Emprendimiento Tecnológico (MGET)",
-      "university": "Universidad Adolfo Ibáñez"
-    },
-    {
-      "year": 2014,
-      "names": ["E. Cáceres"],
-      "title": "Interacción entre personas con discapacidad motriz y aplicaciones para el desarrollo de habilidades cognitivas mediante dispositivo de seguimiento ocular",
-      "program": "Master in Computer Engineering",
-      "university": "Universidad Diego Portales (UDP)"
-    },
-    {
-      "year": 2013,
-      "names": ["J. González"],
-      "title": "Guía de Televisión Remota para GTD Imagen",
-      "program": "Magíster en Gestión y Emprendimiento Tecnológico (MGET)",
-      "university": "Universidad Adolfo Ibáñez"
-    }
-  ]
+  {
+    "year": 2022,
+    "name": "T. Wachter",
+    "title": "Extracción de emociones en obras artísticas mediante Redes Neuronales Convolucionales",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2022,
+    "name": "A. Mardones",
+    "title": "Generación de Arte utilizando Inteligencia Artificial",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2021,
+    "name": "J. Sandoval",
+    "title": "Análisis cuantitativo de la representación visual de elementos de signos en el contexto COVID-19",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2019,
+    "name": "A. Aylwin, A. Fuentes, A. Rebolledo",
+    "title": "Sistema de monitoreo para flujos en la producción de harina",
+    "program": "Ingeniería Civil Industrial, mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2019,
+    "name": "A. Zamorano",
+    "title": "Modelo predictivo de rutas de navegación de usuarios en el sitio WEB usando cadenas de Markov",
+    "program": "Ingeniería Civil Industrial, mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2019,
+    "name": "F. Atala, J.L. Vallejos",
+    "title": "Desarrollo de Sistema de Monitoreo para Biodigestor Doméstico",
+    "program": "Ingeniería Civil Industrial – mención BioIngeniería, Ingeniería Civil Informática",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2018,
+    "name": "J. Acuña, J. Aranguiz, D. Marín",
+    "title": "Sistema de control para pernos de fricción",
+    "program": "Ingeniería Civil en Minería / Industrial",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2018,
+    "name": "J. Fernandez, B. Jackson, S. Undurraga",
+    "title": "Automatización del control de calidad a través de visión artificial",
+    "program": "Ingeniería Civil Industrial – mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2017,
+    "name": "G. Duarte, B. Sade",
+    "title": "Perfiles de túneles mineros",
+    "program": "Ingeniería Civil en Minería",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2017,
+    "name": "N. Bravo, A. Tapia",
+    "title": "Automatización de medición de alcalinidad para un biodigestor doméstico",
+    "program": "Ingeniería Civil en Bioingeniería, Ingeniería Civil Industrial mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2015,
+    "name": "C. Ojeda, G. Ferrari",
+    "title": "Bundi:  controla tu entorno",
+    "program": "Ingeniería Civil Industrial, mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2015,
+    "name": "M. Cabezon",
+    "title": "Verni: Sistema de Control y Automatización para invernaderos",
+    "program": "Ingeniería Civil Industrial, mención TI",
+    "university": "Universidad Adolfo Ibáñez"
+  },
+  {
+    "year": 2012,
+    "name": "A. García",
+    "title": "Interacción humano-computador por medio de detección y proyección de movimiento",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2012,
+    "name": "R. Schalchli",
+    "title": "Sistema de recomendación de productos de supermercados a través de una interfaz móvil mediante reconocimiento de patrones",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2012,
+    "name": "M. Ortega and A. Viada",
+    "title": "Sistema de detección de gestos de forma activa",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2012,
+    "name": "V. Pozo",
+    "title": "Sistema de reconocimiento de objetos utilizando detección de patrones",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2011,
+    "name": "F. del Campo",
+    "title": "Caracterización de la intención humana en movimientos de aprehensión utilizando un sistema de adquisición de imágenes y un acelerómetro",
+    "program": "Ingeniería Civil Informática",
+    "university": "Universidad Diego Portales"
+  }
+]
