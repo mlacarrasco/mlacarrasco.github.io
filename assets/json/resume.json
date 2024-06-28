@@ -27,7 +27,7 @@
       "name": "Universidad Adolfo Ibáñez",
       "position": "Associate Professor",
       "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
-      "startDate": "01/03/2013",
+      "startDate": "March/2013",
       "endDate": "",
       "summary": "Information Technology Department",
       "highlights": ["Computer Science","Image Processing"]
@@ -36,8 +36,8 @@
       "name": "Universidad Diego Portales",
       "position": "Assista Professor",
       "url": "",
-      "startDate": "01/06/2009",
-      "endDate": "28/02/2013",
+      "startDate": "Aug/2009",
+      "endDate": "Feb/2013",
       "summary": "Computer Science Department",
       "highlights": ["Computer Science","Image Processing"]
     }
@@ -49,14 +49,14 @@
       "url": "https://www.isir.upmc.fr/?lang=en",
       "area": "Image Processing",
       "studyType": "Docteur en Informatique",
-      "startDate": "2008",
-      "endDate": "2010"
+      "startDate": "Jan/2008",
+      "endDate": "April/2010"
     }
   ],
   "awards": [
     {
       "title": "Best Teacher Award of diploma on Data Science",
-      "date": "Jun, 2024",
+      "date": "Jun/2024",
       "awarder": "Universidad Adolfo Ibáñez",
       "url": "",
       "summary": ""
