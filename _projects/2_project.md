@@ -19,6 +19,6 @@ The project aims to develop predictive models for the blueberry plantation of Ho
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. 
+    Implementation of an integrated remote monitoring system (based on IoT architecture)
 </div>
 

@@ -18,5 +18,5 @@ This project aims to develop technology for measuring the opening of split set a
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Measurement system for the opening width of split-set bolt type
 </div>
