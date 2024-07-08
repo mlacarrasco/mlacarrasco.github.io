@@ -2,8 +2,8 @@
 layout: page
 title: Pediatric crisis risk
 description: Development and evaluation of data mining algorithms for predicting crisis risk in outpatients of a pediatric hospital FONDEF Idea-CONICT (2014-2016)
-img:
-importance: 4
+img: assets/img/portafolio_proyectos_4.jpg
+importance: 1
 category: work
 ---
 
