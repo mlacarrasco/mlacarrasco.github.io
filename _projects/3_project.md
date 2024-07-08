@@ -14,7 +14,7 @@ The project aims to develop a prototype of a recognition system for MMS (grindin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/portafolio_proyectos_7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+         {% include video.liquid path="assets/video/myfile_0.30_Luz_Dia_co_0.8.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
