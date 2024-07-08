@@ -9,7 +9,8 @@ related_publications: false
 ---
 
 Role: Co-director, Solution architect engineer/developer. 
-Grant: FIC-Regional (2020-2022).  Grant:  IDI 40017833-0.
+
+Grant: FIC-Regional (2020-2022), code: IDI 40017833-0.
 
 This project aims to develop technology for measuring the opening of split set anchor bolts. Using the developed instrument, it is possible to speed up the evaluation of the anchor system installation, thus avoiding measurement through pneumatic systems. The proposed technology has the advantage of being portable, wireless, and extremely fast (< 2 minutes of inspection)
 

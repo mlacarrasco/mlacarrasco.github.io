@@ -4,15 +4,13 @@ title: IoT-based Remote Monitoring
 description: Development of a monitoring system based on IoT systems
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: work
 ---
 
-Edocere –Walmart (2017-2018)
-
 Role: Architect solution engineer/developer 
-Company: Walmart CHILE. 
+Company: Edocere –Walmart Chile (2017-2018)  (15k USD) 
 
-Development of a monitoring system for freezer machines, measuring temperature, humidity, and doors, and a monitoring system for the server room: Measurement of current, temperature, humidity (15k USD) 
+Development of a monitoring system for freezer machines, measuring temperature, humidity, and doors, and a monitoring system for the server room: Measurement of current, temperature, humidity 
 
 
 <div class="row">

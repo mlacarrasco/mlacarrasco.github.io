@@ -7,7 +7,8 @@ importance: 2
 category: work
 ---
 
-Role: Architect solution engineer /developer. 
+Role: Architect solution engineer /developer.
+
 Company: EM-Elecmetal. Developers: IO-link. Grant no. 16ITE1-70889 (120k USD).  Innova Chile (Voucher). (2017-2018)
 
 The project aims to develop a prototype of a recognition system for MMS (grinding media) evacuated from the SAG mill through processing and analysis of images taken in the screen area, in order to automatically obtain indicators that allow measuring the characteristics of the detected grinding media.

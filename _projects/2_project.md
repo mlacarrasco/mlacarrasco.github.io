@@ -8,6 +8,7 @@ category: work
 ---
 
 Role: Solution architect engineer/developer. 
+
 Company: HORTIFRUT-UAI. Grant: 17COTE83081 (300k USD). 
 
 The project aims to develop predictive models for the blueberry plantation of Hortifrut company (the world's largest blueberry producer). The developed system allows remote monitoring and control of 40 pots installed north of San Felipe. This makes it possible to evaluate and control different variables in the plants (air humidity, soil moisture, salinity, soil and air temperature, light level, CO2), and control wastewater reception systems from the irrigation system. The entire system is orchestrated on a Cayenne web platform
