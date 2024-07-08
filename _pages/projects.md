@@ -2,8 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: This section presents various applied projects and technology transfer initiatives that I have participated in. In most of them, I served as a developer, designer, and solution architect
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
