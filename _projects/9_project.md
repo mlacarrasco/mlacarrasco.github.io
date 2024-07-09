@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multiple View Visual Inspection
-description: This project aims to develop a machine to evaluate the quality of wine glass bottles. My research consists in generating a robust multiple view inspection scheme in a non-calibrated way.
+description: This project aims to develop a machine to evaluate the quality of wine glass bottles. My research consists in generating a robust multiple view inspection scheme in a non-calibrated way (2006-2010).
 img: assets/img/portafolio_proyectos_1.jpg
 importance: 4
 category: work

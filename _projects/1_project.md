@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Underground Mining
-description: Intelligent Technology Transfer for Safety in Small-Scale Underground Mining of Mining District 55 Chancón
-img: assets/img/portafolio_proyectos_9.jpg
+description: Intelligent Technology Transfer for Safety in Small-Scale Underground Mining of Mining District 55 Chancón (2020-2024)
+img: assets/img/small_proyectos_9.jpg
 importance: 1
 category: work
 related_publications: false
@@ -10,7 +10,7 @@ related_publications: false
 
 Role: Co-director, Solution architect engineer/developer. 
 
-Grant: FIC-Regional (2020-2022), code: IDI 40017833-0.
+Grant: FIC-Regional (2020-2024), code: IDI 40017833-0.
 
 This project aims to develop technology for measuring the opening of split set anchor bolts. Using the developed instrument, it is possible to speed up the evaluation of the anchor system installation, thus avoiding measurement through pneumatic systems. The proposed technology has the advantage of being portable, wireless, and extremely fast (< 2 minutes of inspection)
 

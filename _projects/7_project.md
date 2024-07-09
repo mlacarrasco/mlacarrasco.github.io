@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Advanced Monitoring System for Graphite Brush Wear in DC Motors
-description: Development of equipment for measuring, recording, and alerting wear of graphite brushes in direct current motors for mining equipment with high operational criticality
+description: Development of equipment for measuring, recording, and alerting wear of graphite brushes in direct current motors for mining equipment with high operational criticality (2015)
 img: assets/img/portafolio_proyectos_3.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---

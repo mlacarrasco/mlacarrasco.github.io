@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Climate change conditions
-description: Development of predictive models using machine learning for decision-making in blueberry production under current and projected climate change conditions.
+description: Development of predictive models using machine learning for decision-making in blueberry production under current and projected climate change conditions (2018-2020)
 img: assets/img/portafolio_proyectos_8.jpg
-importance: 2
+importance: 1
 category: work
 ---
 

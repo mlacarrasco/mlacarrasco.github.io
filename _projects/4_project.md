@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Particle size distribution
-description: Determination of soil particle size distribution curve through in-depth optical analysis.
+description: Determination of soil particle size distribution curve through in-depth optical analysis (2018)
 img: assets/img/portafolio_proyectos_5.jpg
 importance: 3
 category: work
