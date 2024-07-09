@@ -25,6 +25,24 @@
   "work": [
     {
       "name": "Universidad Adolfo Ibáñez",
+      "position": "Co-director PhD Data Sciece",
+      "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
+      "startDate": "03/2023",
+      "endDate": "09/2024",
+      "summary": "Information Technology Department",
+      "highlights": []
+    },
+    {
+      "name": "Universidad Adolfo Ibáñez",
+      "position": "Director of Infrastructure,",
+      "url": "",
+      "startDate": "01/2020",
+      "endDate": "01/2021",
+      "summary": "Faculty of Engineering and Sciece.",
+      "highlights": []
+    },
+    {
+      "name": "Universidad Adolfo Ibáñez",
       "position": "Associate Professor",
       "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
       "startDate": "03/2013",
@@ -44,10 +62,28 @@
   ],
   "education": [
     {
+      "institution": "Innova HiEd Academy",
+      "location": "Online program",
+      "url": "https://igip.org/",
+      "area": "Engineering Eductator",
+      "studyType": "International Engineering Educator, ING.PAED.IGIP",
+      "startDate": "08/2021",
+      "endDate": "03/2023"
+    },
+    {
+      "institution": "Institut de la Vision",
+      "location": "Paris, France",
+      "url": "https://www.institut-vision.org/en",
+      "area": "Computer Vision",
+      "studyType": "Postdoctoral research intership",
+      "startDate": "11/2012",
+      "endDate": "01/2013"
+    },
+    {
       "institution": "Université Pierre et Marie Curie, Institut Systèmes Intelligents et de Robotique",
       "location": "Paris, France",
-      "url": "https://www.isir.upmc.fr/?lang=en",
-      "area": "Image Processing",
+      "url": "https://www.isir.upmc.fr",
+      "area": "Computer vision",
       "studyType": "Docteur en Informatique",
       "startDate": "1/2008",
       "endDate": "4/2010"
@@ -60,23 +96,105 @@
       "studyType": "Doctorado en Ciencias de la Ingeniería, meción computación",
       "startDate": "8/2004",
       "endDate": "4/2010"
+    },
+    {
+      "institution": "Universidad de Santiago de Chile",
+      "location": "Santiago, Chile",
+      "url": "https://informatica.usach.cl",
+      "area": "Information Engineering",
+      "studyType": "Magíster en Informática ",
+      "startDate": "3/2002",
+      "endDate": "4/2004"
+    },
+    {
+      "institution": "Universidad de Santiago de Chile",
+      "location": "Santiago, Chile",
+      "url": "https://informatica.usach.cl",
+      "area": "Information Engineering",
+      "studyType": "Ingeniería Civil en Informática",
+      "startDate": "3/1997",
+      "endDate": "4/2004"
     }
   ],
   "awards": [
     {
-      "title": "Best Teacher Award of diploma on Data Science",
+      "title": "Best Teacher Award of diploma on Data Science.",
       "date": "Jun/2024",
       "awarder": "Universidad Adolfo Ibáñez",
       "url": "",
       "summary": ""
     },
     {
-      "title": "Teacher Award of the Faculty of Engineering and Science",
+      "title": "Teacher Award of the Faculty of Engineering and Science.",
       "date": "Jan, 2024",
       "awarder": "Universidad Adolfo Ibáñez",
       "url": "",
       "summary": ""
+    },
+    {
+      "title": "Best Teacher Award of the Master in Artificial Intelligence (cohort 2021/1), Faculty of Engineering and Science.",
+      "date": "Dic, 2023",
+      "awarder": "Universidad Adolfo Ibáñez",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Acknowledgment for contributions to the Faculty of Engineering and Science in the role of Director of Infrastructure (2020-2021)",
+      "date": "Nov, 2023",
+      "awarder": "Universidad Adolfo Ibáñez",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Teacher Award of the Master in Data Science (cohort 2019/3), Faculty of Engineering and Science.",
+      "date": "Dic, 2021",
+      "awarder": "Universidad Adolfo Ibáñez",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Faculty Teacher Award of the Faculty of Engineering.",
+      "date": "Dic, 2012",
+      "awarder": "Universidad Diego Portales",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Teacher Award of the Escuela de Informática y Telecomunicaciones, Faculty of Engineering.",
+      "date": "Dic, 2012",
+      "awarder": "Universidad Diego Portales",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Teacher Award of the Escuela de Informática y Telecomunicaciones, Faculty of Engineering.",
+      "date": "Dic, 2011",
+      "awarder": "Universidad Diego Portales",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Teacher Leadership Award of the Faculty of Engineering.",
+      "date": "Dic, 2010",
+      "awarder": "Universidad Diego Portales",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Doctoral dissertation received the highest honors (mention très Honorable).",
+      "date": "May, 2010",
+      "awarder": "University Pierre et Marie Curie, UPMC - Paris VI (France)",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Paper Award on Computer Vision and Application",
+      "date": "Dic, 2007",
+      "awarder": "Pacific-Rim Symposium on Image and Video Technology, PSIVT",
+      "url": "",
+      "summary": ""
     }
+    
   ],
   "certificates": [
     {
@@ -115,16 +233,11 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "projects": [
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "French",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ]
 }
