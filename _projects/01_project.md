@@ -23,4 +23,4 @@ This project aims to develop a machine to evaluate the quality of wine glass bot
     Automatic visual inspection machine for wine bottles.
 </div>
 
-Cite: {% cite carrasco2011automatic %}.
+Cite: {% cite carrasco2010visual %}.
