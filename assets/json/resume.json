@@ -27,8 +27,8 @@
       "name": "Universidad Adolfo Ibáñez",
       "position": "Co-director PhD Data Sciece",
       "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
-      "startDate": "03/2023",
-      "endDate": "09/2024",
+      "startDate": "2023/03",
+      "endDate": "2024/09",
       "summary": "Information Technology Department",
       "highlights": []
     },
@@ -36,8 +36,8 @@
       "name": "Universidad Adolfo Ibáñez",
       "position": "Director of Infrastructure,",
       "url": "",
-      "startDate": "01/2020",
-      "endDate": "01/2021",
+      "startDate": "2020/01",
+      "endDate": "2021/01",
       "summary": "Faculty of Engineering and Sciece.",
       "highlights": []
     },
@@ -45,7 +45,7 @@
       "name": "Universidad Adolfo Ibáñez",
       "position": "Associate Professor",
       "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
-      "startDate": "03/2013",
+      "startDate": "2013/03",
       "endDate": "",
       "summary": "Information Technology Department",
       "highlights": ["Computer Science","Image Processing"]
@@ -54,8 +54,8 @@
       "name": "Universidad Diego Portales",
       "position": "Assistant Professor",
       "url": "",
-      "startDate": "08/2009",
-      "endDate": "02/2013",
+      "startDate": "2009/08",
+      "endDate": "2013/02",
       "summary": "Computer Science Department",
       "highlights": ["Computer Science","Image Processing"]
     }
@@ -67,8 +67,8 @@
       "url": "https://igip.org/",
       "area": "Engineering Eductator",
       "studyType": "International Engineering Educator, ING.PAED.IGIP",
-      "startDate": "08/2021",
-      "endDate": "03/2023"
+      "startDate": "2021/08",
+      "endDate": "2023/05"
     },
     {
       "institution": "Institut de la Vision",
@@ -76,8 +76,8 @@
       "url": "https://www.institut-vision.org/en",
       "area": "Computer Vision",
       "studyType": "Postdoctoral research intership",
-      "startDate": "11/2012",
-      "endDate": "01/2013"
+      "startDate": "2012/11",
+      "endDate": "2013/01"
     },
     {
       "institution": "Université Pierre et Marie Curie, Institut Systèmes Intelligents et de Robotique",
@@ -85,8 +85,8 @@
       "url": "https://www.isir.upmc.fr",
       "area": "Computer vision",
       "studyType": "Docteur en Informatique",
-      "startDate": "1/2008",
-      "endDate": "4/2010"
+      "startDate": "2008/01",
+      "endDate": "2010/04"
     },
     {
       "institution": "Pontificia Universidad Católica de Chile, Computer Science Department",
@@ -94,8 +94,8 @@
       "url": "https://dcc.ing.uc.cl/",
       "area": "Computer Science",
       "studyType": "Doctorado en Ciencias de la Ingeniería, meción computación",
-      "startDate": "8/2004",
-      "endDate": "4/2010"
+      "startDate": "2004/08",
+      "endDate": "2010/04"
     },
     {
       "institution": "Universidad de Santiago de Chile",
@@ -103,8 +103,8 @@
       "url": "https://informatica.usach.cl",
       "area": "Information Engineering",
       "studyType": "Magíster en Informática ",
-      "startDate": "3/2002",
-      "endDate": "4/2004"
+      "startDate": "2002/03",
+      "endDate": "2004/04"
     },
     {
       "institution": "Universidad de Santiago de Chile",
@@ -112,8 +112,8 @@
       "url": "https://informatica.usach.cl",
       "area": "Information Engineering",
       "studyType": "Ingeniería Civil en Informática",
-      "startDate": "3/1997",
-      "endDate": "4/2004"
+      "startDate": "1997/03",
+      "endDate": "2004/04"
     }
   ],
   "awards": [
