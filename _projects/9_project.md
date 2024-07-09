@@ -5,6 +5,7 @@ description: This project aims to develop a machine to evaluate the quality of w
 img: assets/img/portafolio_proyectos_1.jpg
 importance: 4
 category: work
+related_publications: true
 ---
 
 CONICYT ACT-32 - PUC (2006-2010).

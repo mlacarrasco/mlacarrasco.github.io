@@ -5,6 +5,7 @@ description: Characterization of reach-to-grasp movements based on active percep
 img: assets/img/portafolio_proyectos_2.jpg
 importance: 3
 category: work
+related_publications: true
 ---
 
 FONDECYT-CONICYT (Initiation into research competition) (2011-2013).
