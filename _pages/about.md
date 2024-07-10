@@ -22,4 +22,4 @@ I'm an Information Techonology Engineer and I hold a Master's degree in Computer
 
 Currently, I'm an Associate Professor of the <a href="https://admision.uai.cl/carreras/ingenieria-civil-informatica/">Information Engineering Department</a> at the <a href="https://ingenieria.uai.cl/">Faculty of Engineering and Sciences </a> at <a href="https://www.uai.cl">Universidad Adolfo Ibáñez (UAI)</a>, Chile
 
-# Keywords: Image processing, Computer vision, Human-Computer Interaction
+### Keywords: Image processing, Computer vision, Human-Computer Interaction
