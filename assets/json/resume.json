@@ -34,7 +34,7 @@
     },
     {
       "name": "Universidad Adolfo Ibáñez",
-      "position": "Director of Infrastructure,",
+      "position": "Director of Infrastructure",
       "url": "",
       "startDate": "2020/01",
       "endDate": "2021/01",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Universidad Adolfo Ibáñez",
-      "position": "Head of the Information Engineering Department,",
+      "position": "Head of the Information Engineering Department",
       "url": "https://admision.uai.cl/carreras/ingenieria-civil-informatica/",
       "startDate": "2018/01",
       "endDate": "2020/01",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Universidad Adolfo Ibáñez",
-      "position": "Academic Director of Master of Science in Engineering in Information Technology, Faculty of Engineering and Science. ",
+      "position": "Academic Director of Master of Science in Engineering in Information Technology, Faculty of Engineering and Science",
       "url": "https://ingenieria.uai.cl/master-of-science/magister-en-ciencias-de-la-ingenieria/",
       "startDate": "2014/03",
       "endDate": "2018/01",
@@ -70,7 +70,7 @@
     },
     {
       "name": "Universidad Diego Portales",
-      "position": "Founder of the Computer Vision Laboratory. Escuela de Informática y Telecomunicaciones, Faculty of Engineering.",
+      "position": "Founder of the Computer Vision Laboratory. Escuela de Informática y Telecomunicaciones, Faculty of Engineering",
       "url": "",
       "startDate": "2012/03",
       "endDate": "2013/02",
@@ -79,7 +79,7 @@
     },
     {
       "name": "Universidad Diego Portales",
-      "position": "Assistant Professor.",
+      "position": "Assistant Professor",
       "url": "https://eit.udp.cl/",
       "startDate": "2009/08",
       "endDate": "2013/02",
@@ -92,8 +92,8 @@
       "institution": "Innova HiEd Academy, affiliated with IFEES",
       "location": "Online program",
       "url": "https://igip.org/",
-      "area": "Engineering Eductator",
-      "studyType": "International Engineering Educator, ING.PAED.IGIP",
+      "area": "Engineering Educator",
+      "studyType": "International Engineering Educator, ING.PAED.IGIP.",
       "startDate": "2021/08",
       "endDate": "2023/05"
     },
