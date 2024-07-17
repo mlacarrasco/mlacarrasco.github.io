@@ -5,7 +5,7 @@ permalink: /projects/
 description: This section presents various applied projects and technology transfer initiatives that I have participated in. In most of them, I served as a developer, designer, and solution architect.
 nav: true
 nav_order: 4
-display_categories: [work, reasearch]
+display_categories: [research,work]
 horizontal: false
 ---
 
