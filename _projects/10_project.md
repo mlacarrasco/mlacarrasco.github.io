@@ -6,6 +6,8 @@ img: assets/img/portafolio_proyectos_10.png
 importance: 2
 category: work
 related_publications: false
+images:
+  slider: true
 ---
 
 Role: Researcher, engineer/developer. 
