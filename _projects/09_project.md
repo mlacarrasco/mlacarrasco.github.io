@@ -4,8 +4,7 @@ title: Underground Mining
 description: Intelligent Technology Transfer for Safety in Small-Scale Underground Mining of Mining District 55 Chancón (2020-2024)
 img: assets/img/small_proyectos_9.jpg
 importance: 1
-category: work
-related_publications: false
+category: research
 ---
 
 Role: Co-director, Solution architect engineer/developer. 
