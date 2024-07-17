@@ -24,7 +24,7 @@ More info at <a href="https://www.dii.uchile.cl/2015/01/17/investigacion-con-imp
         {% include figure.liquid loading="eager" path="assets/img/proyecto_FONDEF_uchile/cajita.jpg" class="img-fluid rounded z-depth-1" zoomable=true  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proyecto_FONDEF_uchile/remoto_ensamble.bmp" class="img-fluid rounded z-depth-1" zoomable=true  %}
+        {% include figure.liquid loading="eager" path="assets/img/proyecto_FONDEF_uchile/remoto_ensamble.jpg" class="img-fluid rounded z-depth-1" zoomable=true  %}
     </div>
 </div>
 <div class="caption">
