@@ -3,8 +3,8 @@ layout: page
 title: Fish image segmentation
 description: This project aims to create a platform for histological analysis of different microscopy sections of fish. This includes the analysis of muscle fibers, intestinal fibers (fiber length), foveal structures, among others (2021-2023).
 img: assets/img/portafolio_proyectos_10.png
-importance: 2
-category: work
+importance: 5
+category: research
 related_publications: false
 images:
   slider: true

@@ -3,8 +3,8 @@ layout: page
 title: Intelligent image recognition system
 description: Development of a prototype for an intelligent image recognition system to optimize the SAG mineral grinding process through rational use of grinding media (2017-2018)
 img: assets/img/portafolio_proyectos_7.jpg
-importance: 2
-category: work
+importance: 4
+category: research
 ---
 
 Role: Architect solution engineer /developer.

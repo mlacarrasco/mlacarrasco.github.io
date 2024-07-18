@@ -3,8 +3,8 @@ layout: page
 title: IoT-based Remote Monitoring
 description: Development of a monitoring system based on IoT systems (2017-2018)
 img: assets/img/portafolio_proyectos_6.jpg
-importance: 2
-category: work
+importance: 4
+category: research
 ---
 
 Role: Architect solution engineer/developer 

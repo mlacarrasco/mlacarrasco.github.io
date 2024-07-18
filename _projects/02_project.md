@@ -4,7 +4,7 @@ title: Reach-to-grasp movements
 description: Characterization of reach-to-grasp movements based on active perception systems (2011-2013)
 img: assets/img/portafolio_proyectos_2.jpg
 importance: 3
-category: work
+category: research
 related_publications: true
 ---
 
