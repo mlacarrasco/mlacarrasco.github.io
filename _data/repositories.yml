@@ -8,6 +8,7 @@ github_repos:
   - uai-art-image-processing/covid19_color_emotion_analysis
   - jose-aranda/Investigacion-ViT
   - mlacarrasco/crack_width
+  - mlacarrasco/image_pattern_recognition
   - mlacarrasco/drtb
   - mlacarrasco/generative_versus_human
   - thomaswachterw/emotion-recognition-UAI
