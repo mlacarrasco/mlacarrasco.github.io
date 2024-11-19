@@ -1,6 +1,13 @@
 [
   {
     "year": 2024,
+    "names": ["A. Karpuj"],
+    "title": "Detección de patrones en representaciones artísticas asociados a posibles trastornos de salud mental en los artistas: Un análisis comparativo de estilos de arte utilizando aprendizaje profundo.",
+    "program": "Master of Science in Data Science (MSDS)",
+    "university": "Universidad Adolfo Ibáñez"
+   },
+  {
+    "year": 2024,
     "names": ["A. Villarroel"],
     "title": "Modelamiento de profundidad de sentadilla para arbitraje asistido en powerlifting",
     "program": "Master of Science in Data Science (MSDS)",
