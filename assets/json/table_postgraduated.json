@@ -1,6 +1,13 @@
 [
   {
     "year": 2025,
+    "names": ["B. Perry"],
+    "title": "Evaluación comparativa de algoritmos de reconocimiento de actividad sospechosa",
+    "program": "Master of Science in Data Science (MSDS)",
+    "university": "Universidad Adolfo Ibáñez"
+   },
+  {
+    "year": 2025,
     "names": ["S. Novoa"],
     "title": "Comparación de la percepción y atención humana en visión por computador utilizando Vision Transformer",
     "program": "Master of Science in Data Science (MSDS)",
