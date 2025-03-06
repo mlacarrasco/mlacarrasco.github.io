@@ -9,9 +9,10 @@ profile:
   image: prof_pic_miguel.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Of.320. Edificio Talleres</p>
-    <p>Av. Diagonal Las Torres 2700</p>
-    <p>Peñalolen. Santiago, Chile</p>
+    <p> Facultad de Ingeniería y Ciencias </p>
+    <p> Ejercito 441 </p>
+    <p> Santiago, Chile</p>
+    
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
