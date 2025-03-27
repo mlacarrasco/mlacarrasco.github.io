@@ -18,23 +18,7 @@ The project aims to develop predictive models for the blueberry plantation of Ho
         {% include figure.liquid loading="eager" path="assets/img/portafolio_proyectos_8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/proyecto_hortifrut/estanque_video.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/proyecto_hortifrut/estanque_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/proyecto_hortifrut/estanque_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/proyecto_hortifrut/armado.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
     <div class="col-sm mt-3 mt-md-0">
         { {% include figure.liquid path="assets/img/proyecto_hortifrut/instalacion_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -48,6 +32,20 @@ The project aims to develop predictive models for the blueberry plantation of Ho
          {% include figure.liquid path="assets/img/proyecto_hortifrut/instalacion_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/img/proyecto_hortifrut/estanque_video.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proyecto_hortifrut/estanque_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proyecto_hortifrut/estanque_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
 
 <div class="caption">
     Implementation of an integrated remote monitoring system (based on IoT architecture)
