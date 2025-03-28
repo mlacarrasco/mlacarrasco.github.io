@@ -28,9 +28,7 @@ The project aims to develop predictive models for the blueberry plantation of Ho
       <div class="col-sm mt-3 mt-md-0">
          {% include figure.liquid path="assets/img/proyecto_hortifrut/instalacion_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-     <div class="col-sm mt-3 mt-md-0">
-         {% include figure.liquid path="assets/img/proyecto_hortifrut/instalacion_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
+    
 </div>
 
 <div class="row mt-3">
@@ -43,9 +41,10 @@ The project aims to develop predictive models for the blueberry plantation of Ho
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/proyecto_hortifrut/estanque_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+     <div class="col-sm mt-3 mt-md-0">
+         {% include figure.liquid path="assets/img/proyecto_hortifrut/instalacion_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
-
-
 
 <div class="caption">
     Implementation of an integrated remote monitoring system (based on IoT architecture)
