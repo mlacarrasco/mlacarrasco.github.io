@@ -7,10 +7,33 @@ importance: 4
 category: research
 ---
 
-Role: Architect solution engineer/developer 
+Role: Architect solution engineer and developer 
 Company: Edocere –Walmart Chile (2017-2018)  (15k USD) 
 
 This project aims to develop and implement a comprehensive monitoring solution for two critical areas: industrial freezer units and server rooms. By leveraging advanced sensor technology and data analytics, we seek to enhance operational efficiency, reduce energy consumption, and prevent equipment failures.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/portafolio_proyectos_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proyecto_walmart/foto_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proyecto_walmart/foto_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proyecto_walmart/foto_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+      <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proyecto_walmart/foto_5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Remote monitoring system using GPRS modem and web platform
+</div>
 
 ### Key Components:
 
@@ -41,28 +64,3 @@ Increased compliance with storage and equipment specifications
 Data-driven decision-making capabilities for facility management
 
 This integrated system will provide facility managers with unprecedented insight into their critical infrastructure, enabling proactive management and ensuring optimal performance of both freezer units and server rooms
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/portafolio_proyectos_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/proyecto_walmart/foto_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/proyecto_walmart/foto_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/proyecto_walmart/foto_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/proyecto_walmart/foto_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    Remote monitoring system using GPRS modem and web platform
-</div>
-
