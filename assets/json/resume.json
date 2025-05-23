@@ -3,13 +3,13 @@
     "name": "Miguel Carrasco",
     "label": "Associate Professor",
     "image": "prof_pic_miguel.jpg",
-    "email": "miguel.carrasco@uai.cl",
+    "email": "miguel.carrasco@udp.cl",
     "phone": "123-4567",
     "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
-    "summary": "Associate Profesor, Faculty of Enginering an Science",
+    "summary": "Faculty of Enginering an Science",
     "location": {
-      "address": "Av. Diagonal Las Torres 2700, Of. 320.Edificio Talleres",
-      "postalCode": "7910000",
+      "address": "Vergara 432, Santiago",
+      "postalCode": "8370190",
       "city": "Santiago",
       "countryCode": "CL",
       "region": "Metropolitana"
@@ -24,11 +24,20 @@
   },
   "work": [
     {
+      "name": "Universidad Diego Portales",
+      "position": "Assistant Professor",
+      "url": "https://www.udp.cl/academico/miguel-carrasco-zambrano/",
+      "startDate": "2025/03",
+      "endDate": "",
+      "summary": "School of Telecommunications & Information Technology",
+      "highlights": []
+    },
+    {
       "name": "Universidad Adolfo Ibáñez",
       "position": "Education Program Director",
       "url": "https://ingenieria.uai.cl/profesor/miguel-carrasco/",
-      "startDate": "2024/09",
-      "endDate": "",
+      "startDate": "2024/06",
+      "endDate": "2024/02",
       "summary": "Faculty of Engineering and Sciece",
       "highlights": []
     },
@@ -73,7 +82,7 @@
       "position": "Associate Professor",
       "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
       "startDate": "2013/03",
-      "endDate": "",
+      "endDate": "2025/03",
       "summary": "Information Technology Department",
       "highlights": []
     },
