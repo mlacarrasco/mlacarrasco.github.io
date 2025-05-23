@@ -5,7 +5,7 @@
     "image": "prof_pic_miguel.jpg",
     "email": "miguel.carrasco@udp.cl",
     "phone": "123-4567",
-    "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
+    "url": "https://eit.udp.cl/?persona=miguel-carrasco-zambrano",
     "summary": "Faculty of Enginering an Science",
     "location": {
       "address": "Vergara 432, Santiago",
@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Universidad Diego Portales",
-      "position": "Assistant Professor",
+      "position": "Associate Professor",
       "url": "https://www.udp.cl/academico/miguel-carrasco-zambrano/",
       "startDate": "2025/03",
       "endDate": "",
