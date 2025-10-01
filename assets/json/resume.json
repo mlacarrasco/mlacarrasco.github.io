@@ -3,7 +3,7 @@
     "name": "Miguel Carrasco",
     "label": "Associate Professor",
     "image": "prof_pic_miguel.jpg",
-    "email": "miguel.carrasco@udp.cl",
+    "email": "miguel.carrasco@mail.udp.cl",
     "phone": "123-4567",
     "url": "https://eit.udp.cl/?persona=miguel-carrasco-zambrano",
     "summary": "Faculty of Enginering an Science",
@@ -37,7 +37,7 @@
       "position": "Education Program Director",
       "url": "https://ingenieria.uai.cl/profesor/miguel-carrasco/",
       "startDate": "2024/06",
-      "endDate": "2024/02",
+      "endDate": "2025/02",
       "summary": "Faculty of Engineering and Sciece",
       "highlights": []
     },
@@ -80,7 +80,7 @@
     {
       "name": "Universidad Adolfo Ibáñez",
       "position": "Associate Professor",
-      "url": "https://pure.uai.cl/es/persons/miguel-carrasco",
+      "url": "",
       "startDate": "2013/03",
       "endDate": "2025/03",
       "summary": "Information Technology Department",
@@ -162,6 +162,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "Best Teacher Award of diploma on Data Science.",
+      "date": "Jun, 2025",
+      "awarder": "Universidad Adolfo Ibáñez",
+      "url": "",
+      "summary": ""
+    },
     {
       "title": "Best Teacher Award of the Master in Data Science, Faculty of Engineering and Science.",
       "date": "Dic, 2024",
