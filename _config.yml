@@ -93,7 +93,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: Miguel-Carrasco # your profile on ResearchGate
-scholar_userid: WYz_08AAAAAJ # your Google Scholar ID 
+scholar_userid: lSYRKE0AAAAJ # your Google Scholar ID 
 scopus_id: 8977359800 # your profile on Scopus
 semanticscholar_id: 2057709896 # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -123,7 +123,7 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: google0dc15e35599b416f.html # your google-site-verification ID (Google Search Console)
+google_site_verification: Q5NDZ0Oeo8AM_ecKr1E6jgpFxuFlHgGMDalBgD4w9vs # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
