@@ -11,17 +11,6 @@ pretty_table: true
 
 ## Alumni
 
-
-<hr>
-#### Postgraduated students from MSDS, MIA, MCI:
-
-<hr>
-MSDS: <a href="https://www.uai.cl/master-of-science/master-of-science-in-data-science/"> Master of Science in Data Science </a>
-<hr>
-MIA: <a href="https://ingenieria.uai.cl/magister/magister-en-inteligencia-artificial/">Master of Artificial Intelligence</a>
-<hr>
-MCI: <a href="https://ingenieria.uai.cl/master-of-science/magister-en-ciencias-de-la-ingenieria/"> Magíster en Ciencias de la Ingeniería</a>
-
 <hr>
 
 <table
