@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Significant improvement of the mining spare parts production process through the incorporation of an online control system for their manufacturing.
+title:  Online control system for manufacturing.
 description: To develop a real-time production control system that would increase PRODIN's productivity and competitiveness in both domestic and international markets (2016-2017)
 img: assets/img/portafolio_proyectos_11.jpg
 importance: 4
@@ -35,7 +35,6 @@ Mathematical model implemented in Python using Gurobi, with a free heuristic alt
 Capable of solving orders involving hundreds of tasks in just a few minutes
 Analysis showed that processing time estimation errors below 15% yield results within acceptable ranges (Monte Carlo analysis)
 Fully integrated and functional system, with all modules delivered to the PRODIN team
-
 
 
 <div class="row">
