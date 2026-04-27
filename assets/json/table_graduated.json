@@ -1,5 +1,26 @@
 [
   {
+    "year": 2026,
+    "name": "C. Martínez",
+    "title": "Diseño, implementación y evaluación de un asistente virtual multicanal con retrieval-augmented generation",
+    "program": "Ingeniería Civil en Informática y Telecomunicaciones",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2026,
+    "name": "P. Lores",
+    "title": "Desarrollo de Scripts del tipo ETL para la integración de datos en plantas de tratamiento de agua",
+    "program": "Ingeniería Civil en Informática y Telecomunicaciones",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2025,
+    "name": "N. Chirino",
+    "title": "Aplicación de etiquetado semi-automático de videos para entrenamiento de modelos de visión computacional",
+    "program": "Ingeniería Civil en Informática y Telecomunicaciones",
+    "university": "Universidad Diego Portales"
+  },
+  {
     "year": 2022,
     "name": "T. Wachter",
     "title": "Extracción de emociones en obras artísticas mediante Redes Neuronales Convolucionales",

@@ -34,7 +34,7 @@
     },
     {
       "name": "Universidad Adolfo Ibáñez",
-      "position": "Education Program Director",
+      "position": "Educational Program Director",
       "url": "https://ingenieria.uai.cl/profesor/miguel-carrasco/",
       "startDate": "2024/06",
       "endDate": "2025/02",
@@ -163,6 +163,13 @@
   ],
   "awards": [
     {
+      "title": "Best Teacher Award of the Master in Data Science.",
+      "date": "Dec, 2025",
+      "awarder": "Universidad Adolfo Ibáñez",
+      "url": "",
+      "summary": ""
+    },
+    {
       "title": "Best Teacher Award of diploma on Data Science.",
       "date": "Jun, 2025",
       "awarder": "Universidad Adolfo Ibáñez",
@@ -171,7 +178,7 @@
     },
     {
       "title": "Best Teacher Award of the Master in Data Science, Faculty of Engineering and Science.",
-      "date": "Dic, 2024",
+      "date": "Dec, 2024",
       "awarder": "Universidad Adolfo Ibáñez",
       "url": "",
       "summary": ""
@@ -192,7 +199,7 @@
     },
     {
       "title": "Best Teacher Award of the Master in Artificial Intelligence (cohort 2021/1), Faculty of Engineering and Science.",
-      "date": "Dic, 2023",
+      "date": "Dec, 2023",
       "awarder": "Universidad Adolfo Ibáñez",
       "url": "",
       "summary": ""
@@ -213,28 +220,28 @@
     },
     {
       "title": "Best Faculty Teacher Award of the Faculty of Engineering.",
-      "date": "Dic, 2012",
+      "date": "Dec, 2012",
       "awarder": "Universidad Diego Portales",
       "url": "",
       "summary": ""
     },
     {
       "title": "Best Teacher Award of the Escuela de Informática y Telecomunicaciones, Faculty of Engineering.",
-      "date": "Dic, 2012",
+      "date": "Dec, 2012",
       "awarder": "Universidad Diego Portales",
       "url": "",
       "summary": ""
     },
     {
       "title": "Best Teacher Award of the Escuela de Informática y Telecomunicaciones, Faculty of Engineering.",
-      "date": "Dic, 2011",
+      "date": "Dec, 2011",
       "awarder": "Universidad Diego Portales",
       "url": "",
       "summary": ""
     },
     {
       "title": "Teacher Leadership Award of the Faculty of Engineering.",
-      "date": "Dic, 2010",
+      "date": "Dec, 2010",
       "awarder": "Universidad Diego Portales",
       "url": "",
       "summary": ""
@@ -248,7 +255,7 @@
     },
     {
       "title": "Best Paper Award on Computer Vision and Application",
-      "date": "Dic, 2007",
+      "date": "Dec, 2007",
       "awarder": "Pacific-Rim Symposium on Image and Video Technology, PSIVT",
       "url": "",
       "summary": ""
