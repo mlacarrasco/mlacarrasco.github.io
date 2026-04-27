@@ -11,11 +11,12 @@ Role: Architect solution engineer /developer.
 
 Company: PRODIN. Developers: UAI. Grant no. 14-VIP35679 | (100k USD).  Innova Chile (Voucher-CORFO). 
 
-#General Objective
+# General Objective
 To develop a real-time production control system that would increase PRODIN's productivity and competitiveness in both domestic and international markets.
 
-#What Was Developed
+## What Was Developed
 The project was divided into two main blocks:
+
 1. Mathematical Optimization Model (led by the UAI Operations Group)
 A binary programming model was developed to solve the workshop scheduling problem (known as a Job Shop problem), with the objective of assigning tasks to machines while minimizing delivery times across manufacturing orders. The model incorporates precedence constraints, machine capacity limits, and worker availability. Since the primary optimization engine (Gurobi) required a paid license, a free greedy heuristic was additionally developed as an alternative. This heuristic also incorporated one of PRODIN's real-world constraints: although 18 machines are available in the workshop, only 9 operators are on staff, meaning no more than 9 machines can run simultaneously.
 2. Visualization and Data Capture Tools (led by the UAI IT Group)
@@ -26,10 +27,10 @@ Online Web Platform: An administration portal that allows users to load and mana
 Operator Interface (Tablet-based): Allows each operator to identify themselves, view their assigned task based on the optimization output (including the technical PDF drawing), and log the start, pause, interruption, and completion of each operation. This information feeds real-time data back into the central control system.
 
 
-#Technologies Used
+## Technologies Used
 The web system was built using the CodeIgniter framework. Fixed workstations on the shop floor were equipped with Raspberry Pi boards connected to LCD monitors, reducing installation and maintenance costs. Mobile interfaces run on tablets.
 
-#Key Results
+## Key Results
 
 Mathematical model implemented in Python using Gurobi, with a free heuristic alternative also developed
 Capable of solving orders involving hundreds of tasks in just a few minutes
@@ -49,5 +50,5 @@ Fully integrated and functional system, with all modules delivered to the PRODIN
    PRODIN Project Summary – Online Production Control System
 </div>
 
-#Limitations and Future Work
+## Limitations and Future Work
 The system requires a commercial Gurobi license to use the optimal solution. The TPM module is not web-based and does not support undo operations. Further improvements were identified to unify the entire platform into a single environment, though these fall outside the scope of the current contract.
