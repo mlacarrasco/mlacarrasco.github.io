@@ -11,10 +11,10 @@ Role: Architect solution engineer /developer.
 
 Company: PRODIN. Developers: UAI. Grant no. 14-VIP35679 | (100k USD).  Innova Chile (Voucher-CORFO). 
 
-## General Objective
+#### General Objective
 To develop a real-time production control system that would increase PRODIN's productivity and competitiveness in both domestic and international markets.
 
-### What Was Developed
+##### What Was Developed
 The project was divided into two main blocks:
 
 1. Mathematical Optimization Model (led by the UAI Operations Group)
@@ -42,10 +42,10 @@ Three main components were built:
    PRODIN Project Summary – Online Production Control System
 </div>
 
-### Technologies Used
+##### Technologies Used
 The web system was built using the CodeIgniter framework. Fixed workstations on the shop floor were equipped with Raspberry Pi boards connected to LCD monitors, reducing installation and maintenance costs. Mobile interfaces run on tablets.
 
-### Key Results
+##### Key Results
 
 Mathematical model implemented in Python using Gurobi, with a free heuristic alternative also developed
 Capable of solving orders involving hundreds of tasks in just a few minutes
@@ -55,7 +55,5 @@ Analysis showed that processing time estimation errors below 15% yield results w
 Fully integrated and functional system, with all modules delivered to the PRODIN team
 
 
-
-
-### Limitations and Future Work
+##### Limitations and Future Work
 The system requires a commercial Gurobi license to use the optimal solution. The TPM module is not web-based and does not support undo operations. Further improvements were identified to unify the entire platform into a single environment, though these fall outside the scope of the current contract.
