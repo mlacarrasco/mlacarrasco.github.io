@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Real-time monitoring of concrete curing
-description: Sensor network system for real-time monitoring of concrete curing (2022).
-img: assets/img/portafolio_proyectos_13.png
+description: Sensor network system for real-time monitoring of concrete curing (2018).
+img: assets/img/portafolio_proyectos_13.jpg
 importance: 7
 category: research
 ---
- 
+**Funding:** UAI-2030  
 **Role:** Developer and Solution Architect
 
 ---
@@ -26,9 +26,7 @@ Despite this, **the industry still lacks a real-time remote monitoring system**,
 Design and deploy a wireless sensor network — combining MESH radio and GPRS connectivity — embedded directly in the concrete structure during curing. The system continuously streams temperature and humidity data to a central server, enabling real-time visibility and predictive analytics of concrete curing conditions without requiring on-site personnel to collect readings manually.
 
 ---
-
 <div class="row mt-3">
-   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/proyecto_hormigon/Imagen_2_v.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -38,7 +36,6 @@ Design and deploy a wireless sensor network — combining MESH radio and GPRS co
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/proyecto_hormigon/Imagen_4_v.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
 </div>
 
 <div class="row mt-3">
