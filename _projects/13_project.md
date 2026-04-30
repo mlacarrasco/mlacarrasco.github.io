@@ -28,7 +28,7 @@ Design and deploy a wireless sensor network — combining MESH radio and GPRS co
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/proyecto_hormigon/im_2_v.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/proyecto_hormigon/im_8_v.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/proyecto_hormigon/im_3_v.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -40,7 +40,7 @@ Design and deploy a wireless sensor network — combining MESH radio and GPRS co
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/proyecto_hormigon/im_5_h.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include figure.liquid path="assets/img/proyecto_hormigon/im_5_h.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/proyecto_hormigon/im_6_h.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
