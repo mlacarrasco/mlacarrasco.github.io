@@ -12,25 +12,21 @@ pretty_table: true
 
 <hr>
 
-<table class="table table-sm table-hover">
+<table
+  data-click-to-select="false"
+  data-height="960"
+  data-pagination="false"
+  data-search="false"
+  data-toggle="table"
+  data-url="{{ '/assets/json/table_students.json' | relative_url }}"
+>
   <thead>
     <tr>
-      <th scope="col">Year</th>
-      <th scope="col">Names</th>
-      <th scope="col">Title</th>
-      <th scope="col">Program</th>
-      <th scope="col">University</th>
+      <th data-field="year" data-halign="left" data-align="center" data-sortable="true">year</th>
+      <th data-field="name" data-halign="left" data-align="left" data-sortable="false">names</th>
+      <th data-field="title" data-halign="left" data-align="left" data-sortable="false">title</th>
+      <th data-field="program" data-halign="left" data-align="left" data-sortable="true">program</th>
+      <th data-field="university" data-halign="left" data-align="left" data-sortable="true">university</th>
     </tr>
   </thead>
-  <tbody>
-    {% for student in site.data.table_students %}
-    <tr>
-      <td>{{ student.year }}</td>
-      <td>{{ student.name }}</td>
-      <td>{{ student.title }}</td>
-      <td>{{ student.program }}</td>
-      <td>{{ student.university }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
 </table>
