@@ -1,5 +1,12 @@
 [
   {
+    "year": 2026,
+    "name": ["Jorge León"],
+    "title": "Conditioning Image Generation with Audio",
+    "program": "PhD in Data Science",
+    "university": "Universidad Adolfo Ibáñez"
+   },
+  {
     "year": 2025,
     "name": ["Bruno Perry"],
     "title": "Evaluación comparativa de algoritmos de reconocimiento de actividad sospechosa",
