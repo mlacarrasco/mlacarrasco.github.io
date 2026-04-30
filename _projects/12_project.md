@@ -2,7 +2,7 @@
 layout: page
 title: Real-Time Visual Inspection for Poultry Processing
 description: Computer vision MVP for automated fat segmentation and quality grading of turkey carcasses on a live production line — (2022).
-img: assets/img/portafolio_proyectos_12.jpg
+img: assets/img/portafolio_proyectos_12.png
 importance: 6
 category: research
 ---
