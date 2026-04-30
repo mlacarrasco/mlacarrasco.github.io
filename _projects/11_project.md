@@ -13,23 +13,23 @@ category: research
 
 ---
 
-## Context
+#### Context
 
 [PRODIN](https://prodin.cl/) Ltda., a Chilean manufacturer of spare parts for the mining industry, faced significant inefficiencies in its production process: late detection of delays, bottlenecks, idle machinery hours, and high energy costs. To address these issues, PRODIN formed a strategic alliance with Adolfo Ibáñez University (UAI), funded by CORFO, with the goal of incorporating information technologies into its production management.
 
 ---
 
-## Objective
+#### Objective
 
 Develop a **real-time production control system** that increases PRODIN's productivity and competitiveness in both domestic and international markets.
 
 ---
 
-## What Was Built
+#### What Was Built
 
 The project was structured into two main blocks.
 
-### 1 — Mathematical Optimization Model
+##### 1 — Mathematical Optimization Model
 *(Led by the UAI Operations Research Group)*
 
 A **binary programming model** was developed to solve the workshop scheduling problem — a classic **Job Shop** formulation — with the objective of assigning tasks to machines while minimizing delivery times across manufacturing orders. The model incorporates:
@@ -40,7 +40,7 @@ A **binary programming model** was developed to solve the workshop scheduling pr
 
 The primary solver was implemented in **Python using Gurobi**. A **free greedy heuristic** was also developed as an alternative for deployments without a commercial license. Monte Carlo analysis showed that processing time estimation errors below 15% yield results within acceptable ranges.
 
-### 2 — Visualization & Data Capture Tools
+##### 2 — Visualization & Data Capture Tools
 *(Led by the UAI IT Group)*
 
 Three components were built:
@@ -70,7 +70,7 @@ Each operator can identify themselves, view their assigned task (including the t
 
 ---
 
-## Technologies
+#### Technologies
 
 | Layer | Technology |
 |---|---|
@@ -82,7 +82,7 @@ Each operator can identify themselves, view their assigned task (including the t
 
 ---
 
-## Key Results
+#### Key Results
 
 - Optimization model capable of solving orders with **hundreds of tasks in a few minutes**
 - Monte Carlo analysis confirmed robustness to estimation errors below 15%
@@ -91,6 +91,6 @@ Each operator can identify themselves, view their assigned task (including the t
 
 ---
 
-## Limitations & Future Work
+#### Limitations & Future Work
 
 The optimal solver requires a **commercial Gurobi license**; the greedy heuristic is available as a fallback. The TPM module is currently desktop-only and does not support undo operations. A unified single-environment platform was identified as the natural next step, though it falls outside the scope of the current contract.
