@@ -83,13 +83,4 @@ Field hardware was revised mid-project based on findings at Minera Centinela: th
 
 #### Project Progress (at reporting date)
 
-| Stage | Description | Completion |
-|---|---|---|
-| Stage 1 — System Design | Architecture, hardware/software selection, lab setup | 100% |
-| Detection algorithm | Template correlation + neural network + trajectory tracking | 100% |
-| Classification & measurement | Ball type and diameter pipeline | 100% |
-| Communication system | Field-to-cloud data pipeline | 100% |
-| Remote server & database | Cloud storage infrastructure | 80% |
-| Web visualization app | KPI dashboard | 100% |
-
 Neural network training required field video captures at Minera Centinela under varying lighting, camera positions, and zoom levels — a step that proved critical given the algorithm's sensitivity to site-specific visual conditions. Based on this finding, the project moved Stage 4 (field validation) earlier in the timeline, conducting field visits in parallel with development to build a representative training image set.
