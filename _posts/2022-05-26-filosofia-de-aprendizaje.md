@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Filosofía de aprendizaje: mi experiencia
+title: "Filosofía de aprendizaje: mi experiencia"
 date: 2022-05-26 09:00:00
 description: Una reflexión personal sobre la docencia, el aprendizaje centrado en el estudiante y la importancia de la creatividad en la educación superior.
 tags: teaching education pedagogy

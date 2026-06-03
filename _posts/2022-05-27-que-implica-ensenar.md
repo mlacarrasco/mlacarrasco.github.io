@@ -5,7 +5,6 @@ date: 2022-05-27 09:00:00
 description: Una reflexión sobre el Aprendizaje Centrado en el Estudiante, los principales métodos activos y los cambios necesarios en la práctica docente universitaria.
 tags: teaching education pedagogy active-learning
 categories: teaching
-thumbnail: assets/img/bubl_app_2.jpg
 ---
 
 Enseñar no es solo entregar conocimiento, sino lograr que los estudiantes desarrollen su propia capacidad de buscar y reflexionar para así alcanzar un entendimiento profundo. Lo anterior requiere un rol activo del estudiante, de modo que el profesor sea un **facilitador** durante este proceso.
