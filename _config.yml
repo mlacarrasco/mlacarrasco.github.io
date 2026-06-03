@@ -131,7 +131,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: docencia # blog_name will be displayed in your blog page
-blog_description: "No puedes enseñar algo a alguien,  sólo puedes ayudarle a  que lo encuentre en su interior", Galileo Galilei
+blog_description: Reflexiones sobre docencia, investigación y tecnología
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
