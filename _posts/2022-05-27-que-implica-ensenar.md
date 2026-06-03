@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "¿Qué implica enseñar?"
+title: "Modelos de aprendizaje"
 date: 2022-05-27 09:00:00
 description: Una reflexión sobre el Aprendizaje Centrado en el Estudiante, los principales métodos activos y los cambios necesarios en la práctica docente universitaria.
 tags: teaching education pedagogy active-learning
 categories: teaching
 ---
+## ¿qué implica enseñar?
 
 Enseñar no es solo entregar conocimiento, sino lograr que los estudiantes desarrollen su propia capacidad de buscar y reflexionar para así alcanzar un entendimiento profundo. Lo anterior requiere un rol activo del estudiante, de modo que el profesor sea un **facilitador** durante este proceso.
 
@@ -17,7 +18,7 @@ A pesar de la extrema relevancia de los procesos de aprendizaje y cómo éstos i
 
 ## Aprendizaje Centrado en el Estudiante (ACE)
 
-{% include figure.liquid path="assets/img/bubl_app_2.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/bubl_app_4.jpg" class="img-fluid rounded z-depth-1" %}
 
 Dentro de las principales vías de desarrollo del aprendizaje, considero que el **Aprendizaje Centrado en el Estudiante (ACE)** es una de las más relevantes en la actualidad. Sus principales características son:
 
