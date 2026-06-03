@@ -5,7 +5,6 @@ date: 2022-05-29 09:00:00
 description: Una reflexión sobre el propósito real de la evaluación, los distintos tipos que existen y las herramientas disponibles para alinearla con los resultados de aprendizaje.
 tags: teaching education pedagogy assessment
 categories: teaching
-thumbnail: assets/img/bubl_app_1.jpg
 ---
 
 > *"Assessment is essential not only to guide the development of individual students but also to monitor and continuously improve the quality of programs, inform prospective students and their parents, and provide evidence of accountability to those who pay our way."*
