@@ -1,6 +1,13 @@
 [
   {
     "year": 2026,
+    "name": ["Luis Oliveros"],
+    "title": "Analysis of the attention mechanism in Visual Transformers and its relationship to human visual attention.",
+    "program": "PhD in Data Science",
+    "university": "Universidad Adolfo Ibáñez"
+   },
+  {
+    "year": 2026,
     "name": ["Jorge León"],
     "title": "Conditioning Image Generation with Audio",
     "program": "PhD in Data Science",
