@@ -68,6 +68,37 @@ pretty_table: true
   .alumni-table-wrap table tbody tr:hover {
     background: rgba(127, 127, 127, 0.08);
   }
+  /* El tema aplica estilos de lista (viñetas, bloque vertical) a cualquier <ul><li>
+     del contenido markdown; esto pisa el layout en fila que bootstrap-table
+     necesita para su paginación, así que lo reseteamos aquí. */
+  .alumni-table-wrap .pagination {
+    display: flex !important;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style: none !important;
+    margin: 0;
+    padding: 0;
+    gap: 0.25rem;
+  }
+  .alumni-table-wrap .pagination li {
+    display: inline-flex !important;
+    list-style: none !important;
+    margin: 0;
+  }
+  .alumni-table-wrap .pagination li a,
+  .alumni-table-wrap .pagination li .page-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .alumni-table-wrap .fixed-table-pagination {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 0.6rem 0.75rem;
+  }
 </style>
 
 <div class="alumni-toggle" role="tablist">
