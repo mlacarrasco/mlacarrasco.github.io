@@ -1,6 +1,28 @@
 [
   {
     "year": 2026,
+    "name": "M. Sepúlveda",
+    "title": "Análisis de la atención visual y respuesta emocional en imágenes publicitarias mediante Eye Tracking y Deep Learning",
+    "program": "Ingeniería Civil en Informática y Telecomunicaciones",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2026,
+    "name": "M. Pinto",
+    "title": "Evaluación multimodal del bienestar y comportamiento en gatos domésticos a través de sensores tecnológicos y cuestionarios Fe-BARQ",
+    "program": "Ingeniería Civil en Informática y Telecomunicaciones",
+    "university": "Universidad Diego Portales"
+  },
+  {
+    "year": 2026,
+    "name": "S. Espinoza",
+    "title": "Herramienta de sizing y optimización de arquitectura de infraestructura TI basada en un motor de cálculo determinista y modelos de lenguaje",
+    "program": "Ingeniería Civil en Informática y Telecomunicaciones",
+    "university": "Universidad Diego Portales"
+  },
+
+  {
+    "year": 2026,
     "name": "C. Martínez",
     "title": "Diseño, implementación y evaluación de un asistente virtual multicanal con retrieval-augmented generation",
     "program": "Ingeniería Civil en Informática y Telecomunicaciones",

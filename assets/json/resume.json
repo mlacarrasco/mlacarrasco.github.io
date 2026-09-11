@@ -25,6 +25,15 @@
   "work": [
     {
       "name": "Universidad Diego Portales",
+      "position": "Director of Doctorate in Engineering Sciences",
+      "url": "https://doctorados.udp.cl/doctorados/doctorado-en-ciencias-de-la-ingenieria/",
+      "startDate": "2026/09",
+      "endDate": "",
+      "summary": "Faculty of Engineering and Sciece",
+      "highlights": []
+    },
+    {
+      "name": "Universidad Diego Portales",
       "position": "Associate Professor",
       "url": "https://www.udp.cl/academico/miguel-carrasco-zambrano/",
       "startDate": "2025/03",
@@ -263,6 +272,13 @@
     
   ],
   "certificates": [
+     {
+      "name": "Certificate in AI for Higher Education - AI for Faculty",
+      "date": "01/09/2026",
+      "issuer": "Digital Education Council (DEC)",
+      "url": "https://www.digitaleducationcouncil.com",
+      "icon": "fa-solid fa-location-dot"
+    },
     {
       "name": "Internacional Engineering Educator, ING.PAED.IGIP (austria)",
       "date": "31/12/2023",
