@@ -65,10 +65,6 @@ pretty_table: true
   .alumni-table-wrap .fixed-table-toolbar {
     padding: 0.6rem 0.75rem;
   }
-  .alumni-table-wrap table th {
-    position: sticky;
-    top: 0;
-  }
   .alumni-table-wrap table tbody tr:hover {
     background: rgba(127, 127, 127, 0.08);
   }
@@ -77,12 +73,12 @@ pretty_table: true
 <div class="alumni-toggle" role="tablist">
   <button type="button" class="alumni-toggle-btn active" data-target="pregrado" role="tab" aria-selected="true">
     <i class="fa-solid fa-user-graduate"></i>
-    Pregrado
+    Graduated
     <span class="alumni-count-badge" id="graduated-count">23</span>
   </button>
   <button type="button" class="alumni-toggle-btn" data-target="postgrado" role="tab" aria-selected="false">
     <i class="fa-solid fa-graduation-cap"></i>
-    Postgrado
+    Postgraduated
     <span class="alumni-count-badge" id="postgraduated-count">23</span>
   </button>
 </div>
